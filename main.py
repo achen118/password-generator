@@ -1,6 +1,6 @@
 import random
 
-chars = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890?#!$%@^&*+-_=;:\'",./<>~`'
+chars = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*()?'
 num_of_passwords = int(input('How many passwords to generate? '))
 length = int(input('Password length? '))
 
