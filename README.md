@@ -1,5 +1,5 @@
 # password-generator
-Simple Password Generator in Python from [Code Club](https://codeclubprojects.org/en-GB/python/password-generator/)
+Simple Password Generator in Python
 
 - Generates random passwords using:
     - a-z
